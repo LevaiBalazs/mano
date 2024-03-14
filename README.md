@@ -1,5 +1,3 @@
-# Mano  alkalmazas
+# Sablon  alkalmazas
 
-2024-03-05
-
-Minőségbiztosítás
+Sablon
